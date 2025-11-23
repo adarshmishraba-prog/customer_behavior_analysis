@@ -40,11 +40,11 @@ The company wants to identify the factors — such as **discounts, reviews, paym
 
 ### **5️⃣ GitHub Repository**
 Includes:
-/python-scripts → Data cleaning + transformation
-/sql-queries → All MySQL queries
-/powerbi-dashboard → PBIX file
-/reports → Final report (PDF)
-/data (optional) → Raw or cleaned dataset
+/python-scripts      → Data cleaning & transformation scripts
+/sql-queries         → All MySQL queries used in the project
+/powerbi-dashboard   → Power BI dashboard (.pbix file)
+/reports             → Final report (PDF)
+/data (optional)     → Raw or cleaned dataset
 
 
 ---
